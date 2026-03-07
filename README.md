@@ -1,4 +1,4 @@
-# E-Commerce Funnel and Sales Analysis
+# E-Commerce Sales Analysis
 
 ## Project Overview
 This project analyzes one month of customer behavior in an e-commerce platform to evaluate how effectively visitors convert into buyers. The analysis examines the full customer journey from product view to purchase, identifies conversion bottlenecks, and evaluates marketing channel performance.
