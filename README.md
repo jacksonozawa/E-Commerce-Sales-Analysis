@@ -30,8 +30,7 @@ The goal of the project is to uncover insights that can improve conversion rates
 ## Key Insights
 1. Funnel optimization
    * Major funnel drop-off occurs before Add-to-Cart  
-     &emsp;Only 31% of users add products to their cart, meaning almost 70% leave the website before showing intent  
-     &emsp;of purchase
+     &emsp;Only 31% of users add products to their cart, meaning almost 70% leave the website before showing intent of purchase
    * Checkout flow is efficient  
      &emsp;Once users add a product to their cart, the funnel converts strongly:  
      &emsp;&emsp;Cart → Checkout: 71%  
@@ -39,8 +38,7 @@ The goal of the project is to uncover insights that can improve conversion rates
      &emsp;&emsp;Payment → Purchase: 92%
 2. Marketing strategy
    * Email drives the highest quality traffic  
-     &emsp;Email has a 34% conversion rate, significantly stronger than other channels, and a very high view-to-cart rate at  
-     &emsp;63% 
+     &emsp;Email has a 34% conversion rate, significantly stronger than other channels, and a very high view-to-cart rate at 63% 
    * Social media is heavily underperforming  
      &emsp;Despite social media driving ~29% of traffic, it has the lowest conversion rate at only 7%
 3. Time spent
