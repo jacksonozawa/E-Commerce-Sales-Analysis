@@ -44,10 +44,20 @@ The goal of the project is to uncover insights that can improve conversion rates
 3. Time spent
    * Short customer purchase journey  
      &emsp;Average time from first product view to purchase is only ~25 minutes, suggesting more impulse purchases
-5. Monetization metrics
+4. Monetization metrics
    * Strong revenue efficiency  
      &emsp;Website generates an AOV of $107 and revenue-per-visitor of $17.76
 
 ## Business Reccomendations
+1. Improve product page engagement to increase add-to-cart rates  
+   * A 5% increase in the view-to-cart rate results in an additional 110 purchases, leading to an estimated $11,000+ in additional revenue over 30 days
+   * Potential improvements could include product reviews, product images, and price clarity
+2. Invest more in email marketing  
+   * Implement cart abandonment emails, email-exclusive discounts, sign-up deals, etc.
+   * Our data shows email visitors are more likely to convert
+3. Reevaluate social media marketing  
+   * Improve ad targeting or reallocate social media budget
 
+## Dataset
+The dataset contains user interaction events from an e-commerce website, found in the user_events.csv file.
 
