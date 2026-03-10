@@ -59,7 +59,9 @@ The goal of the project is to uncover insights that can improve conversion rates
 3. Reevaluate social media marketing  
    * Improve ad targeting or reallocate social media budget
 
-## Dashboard
+## Dashboard  
+[Click here to view interactive dashboard!](https://public.tableau.com/views/E-CommerceSalesAnalysis_17731650449230/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+
 The Tableau dashboard contains 4 distinct visualizations:
 1. KPI Summary - Table containing important sales metrics
 2. Conversion Funnel - Vizualization of the funnel stages and their conversion rates
