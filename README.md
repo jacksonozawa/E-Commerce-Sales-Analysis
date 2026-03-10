@@ -17,6 +17,7 @@ The goal of the project is to uncover insights that can improve conversion rates
   * CTEs
 * Tableau
   * Dashboard visualization
+  * Parameter-based metric toggle
  
 ## Key Metrics
 * Total Visitors: 4,291
