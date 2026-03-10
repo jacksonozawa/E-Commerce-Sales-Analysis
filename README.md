@@ -59,6 +59,15 @@ The goal of the project is to uncover insights that can improve conversion rates
 3. Reevaluate social media marketing  
    * Improve ad targeting or reallocate social media budget
 
+## Dashboard
+The Tableau dashboard contains 4 distinct visualizations:
+1. KPI Summary - Table containing important sales metrics
+2. Conversion Funnel - Vizualization of the funnel stages and their conversion rates
+3. Traffic Source Performance - Bar graph comparing performance of a selected metric by source
+4. Time Metrics -  Summary of average time spent by customers
+
+![Dashboard Preview](ecommerce_sales_analysis_dashboard.png)
+
 ## Dataset
 The dataset contains user interaction events from an e-commerce website, found in the user_events.csv file.
 
